@@ -11,12 +11,12 @@
 
 * Always check flutter installation on a new device:
     ```bash
-    -> flutter doctor -v
+    ⮕ flutter doctor -v
     ```
 * To ensure everything is working, 
   * create a new empty project:
     ```
-    -> flutter create <project-name>
+    ⮕ flutter create <project-name>
     ```
   * Then go into the ***\<project-name\>*** directory in Android Studio or VS code and run the project **main.dart** file.
 
